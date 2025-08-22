@@ -1,0 +1,9 @@
+# Required Python packages
+numpy
+gymnasium
+pygame
+carla==0.9.12
+
+# Note: roar_py_interface and roar_py_carla are part of the official ROAR_PY
+# repository; follow the installation instructions in the competition
+# documentation to set them up in your environment.
