@@ -1,0 +1,3 @@
+This submission uses only the packages included in the official `ROAR_PY` and `ROAR_Competition` repositories.  No additional Python packages are required.  Simply install the dependencies as described in the competition documentation【525127204158809†screenshot】 and run the agent using `competition_runner.py`.
+
+If you wish to adjust the agent’s behaviour (e.g. speed or look‑ahead distance) you can modify the logic inside `competition_code/submission.py` under the `RoarCompetitionSolution.step()` method.
